@@ -1,0 +1,5 @@
+Final accuracies:
+
+Accuracy on training set: 0.833482142857
+
+Accuracy on testing set: 0.6142578125

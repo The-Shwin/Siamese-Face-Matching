@@ -1,0 +1,228 @@
+Training!!!
+
+Epoch: 0
+ Current Loss: 0.77957868576
+
+Epoch: 0
+ Current Loss: 0.791565299034
+
+Epoch: 0
+ Current Loss: 0.77667593956
+
+Epoch: 0
+ Current Loss: 0.782901883125
+
+Epoch: 0
+ Current Loss: 0.631612181664
+
+Epoch: 1
+ Current Loss: 0.464124917984
+
+Epoch: 1
+ Current Loss: 0.424400866032
+
+Epoch: 1
+ Current Loss: 0.444117993116
+
+Epoch: 1
+ Current Loss: 0.507002592087
+
+Epoch: 1
+ Current Loss: 0.33449229598
+
+Epoch: 2
+ Current Loss: 0.245426997542
+
+Epoch: 2
+ Current Loss: 0.202123373747
+
+Epoch: 2
+ Current Loss: 0.307808607817
+
+Epoch: 2
+ Current Loss: 0.284516215324
+
+Epoch: 2
+ Current Loss: 0.296501398087
+
+Epoch: 3
+ Current Loss: 0.131874382496
+
+Epoch: 3
+ Current Loss: 0.108321756124
+
+Epoch: 3
+ Current Loss: 0.0959104448557
+
+Epoch: 3
+ Current Loss: 0.0775702744722
+
+Epoch: 3
+ Current Loss: 0.0888131707907
+
+Epoch: 4
+ Current Loss: 0.0463715679944
+
+Epoch: 4
+ Current Loss: 0.044978775084
+
+Epoch: 4
+ Current Loss: 0.0537915714085
+
+Epoch: 4
+ Current Loss: 0.04034435004
+
+Epoch: 4
+ Current Loss: 0.0494146086276
+
+Epoch: 5
+ Current Loss: 0.0253221951425
+
+Epoch: 5
+ Current Loss: 0.0179085358977
+
+Epoch: 5
+ Current Loss: 0.0138071551919
+
+Epoch: 5
+ Current Loss: 0.0212905481458
+
+Epoch: 5
+ Current Loss: 0.0143582429737
+
+Epoch: 6
+ Current Loss: 0.0102948099375
+
+Epoch: 6
+ Current Loss: 0.00803504139185
+
+Epoch: 6
+ Current Loss: 0.00789977330714
+
+Epoch: 6
+ Current Loss: 0.00693502184004
+
+Epoch: 6
+ Current Loss: 0.0139137506485
+
+Epoch: 7
+ Current Loss: 0.00776500673965
+
+Epoch: 7
+ Current Loss: 0.00744418799877
+
+Epoch: 7
+ Current Loss: 0.00811791419983
+
+Epoch: 7
+ Current Loss: 0.00470542022958
+
+Epoch: 7
+ Current Loss: 0.00368460547179
+
+Epoch: 8
+ Current Loss: 0.00303107313812
+
+Epoch: 8
+ Current Loss: 0.00411617010832
+
+Epoch: 8
+ Current Loss: 0.00366092543118
+
+Epoch: 8
+ Current Loss: 0.0033946284093
+
+Epoch: 8
+ Current Loss: 0.00806402973831
+
+Epoch: 9
+ Current Loss: 0.0033899510745
+
+Epoch: 9
+ Current Loss: 0.00335497455671
+
+Epoch: 9
+ Current Loss: 0.00567395798862
+
+Epoch: 9
+ Current Loss: 0.00284398975782
+
+Epoch: 9
+ Current Loss: 0.00261288043112
+
+Epoch: 10
+ Current Loss: 0.00279035139829
+
+Epoch: 10
+ Current Loss: 0.00239069852978
+
+Epoch: 10
+ Current Loss: 0.00367093039677
+
+Epoch: 10
+ Current Loss: 0.00206663901918
+
+Epoch: 10
+ Current Loss: 0.00319418730214
+
+Epoch: 11
+ Current Loss: 0.0056652026251
+
+Epoch: 11
+ Current Loss: 0.00233733467758
+
+Epoch: 11
+ Current Loss: 0.0022637611255
+
+Epoch: 11
+ Current Loss: 0.00290874717757
+
+Epoch: 11
+ Current Loss: 0.00129774981178
+
+Epoch: 12
+ Current Loss: 0.00164628843777
+
+Epoch: 12
+ Current Loss: 0.00145051325671
+
+Epoch: 12
+ Current Loss: 0.00322925485671
+
+Epoch: 12
+ Current Loss: 0.00263045937754
+
+Epoch: 12
+ Current Loss: 0.0013124581892
+
+Epoch: 13
+ Current Loss: 0.00110444019083
+
+Epoch: 13
+ Current Loss: 0.00195553805679
+
+Epoch: 13
+ Current Loss: 0.00149077607784
+
+Epoch: 13
+ Current Loss: 0.0017319128383
+
+Epoch: 13
+ Current Loss: 0.00197167461738
+
+Epoch: 14
+ Current Loss: 0.000965828541666
+
+Epoch: 14
+ Current Loss: 0.000933225383051
+
+Epoch: 14
+ Current Loss: 0.00106949091423
+
+Epoch: 14
+ Current Loss: 0.00234898366034
+
+Epoch: 14
+ Current Loss: 0.00231967517175
+
+Attempting to save the newly trained weights.
